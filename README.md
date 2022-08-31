@@ -1,4 +1,4 @@
-Goals for this project:
+Goals for this project (as of 8/30/22):
 
 1. Be able to record ideas for projects
 2. Display them in a way that doesn't cause anxiety
