@@ -1,1 +1,3 @@
-console.log("Everything is fine.")
+import { getAllProjectsFromFile } from "./projectRepository.js";
+
+console.log(getAllProjectsFromFile());
